@@ -1,0 +1,17 @@
+{
+  "name": "invader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "actor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "open index.html && webpack -w"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ts-loader": "^2.2.2",
+    "typescript": "^2.4.1",
+    "webpack": "^3.0.0"
+  }
+}
